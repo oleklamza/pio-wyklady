@@ -1,2 +1,1 @@
-# pio-wyklady
-Wykłady z przedmiotu PIO
+# Prezentacje z wykładów "Podstawy inżynierii oprogramowania"
